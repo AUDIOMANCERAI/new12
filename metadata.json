@@ -1,0 +1,5 @@
+{
+  "name": "Audiomancer.ai",
+  "description": "A smart 8-pad drum machine and sequencer powered by Gemini. Generate custom synthesized drum kits instantly with AI prompts.",
+  "requestFramePermissions": []
+}
